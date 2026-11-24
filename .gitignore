@@ -1,0 +1,13 @@
+# Python & Virtual Environment
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.exe
+
+# Temporary & Log files
+*.log
+.system_generated/
+.gemini/

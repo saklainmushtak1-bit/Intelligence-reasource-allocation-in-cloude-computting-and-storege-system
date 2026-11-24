@@ -1,0 +1,1 @@
+Cloud compute cluster initialization complete. Storage daemon mounted at /dev/xvda.

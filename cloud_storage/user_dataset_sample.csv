@@ -1,0 +1,3 @@
+id,user_name,allocated_gb,tier
+101,research_lab,120,SSD
+102,analytics_node,500,Coldline
